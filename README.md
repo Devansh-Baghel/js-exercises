@@ -5,7 +5,7 @@ It's not a regular fork as [github won't show commits made in a fork on my profi
 
 ## Todo
 - [x] 01 helloWorld
-- [ ] 02 repeatString
+- [x] 02 repeatString
 - [ ] 03 reverseString
 - [ ] 04 removeFromArray
 - [ ] 05 sumAll
