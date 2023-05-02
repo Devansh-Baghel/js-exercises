@@ -4,7 +4,7 @@ This is a detached fork of [TOP's javascript-exercises](https://github.com/TheOd
 It's not a regular fork as [github won't show commits made in a fork on my profile.](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/why-are-my-contributions-not-showing-up-on-my-profile#commit-was-made-in-a-fork)
 
 ## Todo
-- [ ] 01 helloWorld
+- [x] 01 helloWorld
 - [ ] 02 repeatString
 - [ ] 03 reverseString
 - [ ] 04 removeFromArray
