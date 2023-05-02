@@ -7,7 +7,7 @@ It's not a regular fork as [github won't show commits made in a fork on my profi
 - [x] 01 helloWorld
 - [x] 02 repeatString
 - [x] 03 reverseString
-- [ ] 04 removeFromArray
+- [x] 04 removeFromArray
 - [ ] 05 sumAll
 - [ ] 06 leapYears
 - [ ] 07 tempConversion
