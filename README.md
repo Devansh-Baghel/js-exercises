@@ -10,7 +10,7 @@ It's not a regular fork as [github won't show commits made in a fork on my profi
 - [x] 04 removeFromArray
 - [x] 05 sumAll
 - [x] 06 leapYears
-- [ ] 07 tempConversion
+- [x] 07 tempConversion
 - [ ] 08 calculator
 - [ ] 09 palindromes
 - [ ] 10 fibonacci
