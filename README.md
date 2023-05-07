@@ -17,7 +17,7 @@ It's not a regular fork as [github won't show commits made in a fork on my profi
 - [x] 11 getTheTitles
 - [x] 12 findTheOldest
 
-# Todo for previously skipped test cases
+## Todo for previously skipped test cases
 - [ ] 02 repeatString
 - [ ] 03 reverseString
 - [ ] 04 removeFromArray
