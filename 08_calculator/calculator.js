@@ -1,5 +1,5 @@
-const add = function() {
-	
+const add = function(numberOne, numberTwo) {
+	return numberOne + numberTwo;
 };
 
 const subtract = function() {
@@ -7,7 +7,7 @@ const subtract = function() {
 };
 
 const sum = function() {
-	
+
 };
 
 const multiply = function() {
@@ -15,11 +15,11 @@ const multiply = function() {
 };
 
 const power = function() {
-	
+
 };
 
 const factorial = function() {
-	
+
 };
 
 // Do not edit below this line
