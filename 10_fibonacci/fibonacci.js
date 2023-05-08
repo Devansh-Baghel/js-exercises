@@ -1,4 +1,8 @@
 const fibonacci = function(index) {
+
+  if(index < 0){
+    return "OOPS"
+  }
   let sequence = [];
   let number1 = 1;
   let number2 = 1;

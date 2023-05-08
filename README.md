@@ -21,11 +21,11 @@ It's not a regular fork as [github won't show commits made in a fork on my profi
 - [x] 02 repeatString
 - [x] 03 reverseString
 - [x] 04 removeFromArray
-- [ ] 05 sumAll
-- [ ] 06 leapYears
-- [ ] 07 tempConversion
-- [ ] 08 calculator
-- [ ] 09 palindromes
-- [ ] 10 fibonacci
+- [x] 05 sumAll
+- [x] 06 leapYears
+- [x] 07 tempConversion
+- [x] 08 calculator
+- [x] 09 palindromes
+- [x] 10 fibonacci
 - [ ] 11 getTheTitles
 - [ ] 12 findTheOldest
