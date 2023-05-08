@@ -27,5 +27,5 @@ It's not a regular fork as [github won't show commits made in a fork on my profi
 - [x] 08 calculator
 - [x] 09 palindromes
 - [x] 10 fibonacci
-- [ ] 11 getTheTitles
-- [ ] 12 findTheOldest
+- [x] 11 getTheTitles
+- [x] 12 findTheOldest
